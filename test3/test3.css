@@ -1,0 +1,31 @@
+.students{
+    width: 100%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.credit{
+    display: flex;
+    /* width: 100%; */
+    flex-direction: column;
+    /* border:5px solid blueviolet; */
+    margin: 10PX;
+    text-align: center;
+}
+
+.A{
+    background-color: cornflowerblue;
+}
+
+.B{
+    background-color: rgb(100, 237, 111);
+}
+
+.C{
+    background-color: rgb(237, 127, 100);
+}
+
+.ghrhet{
+    font-weight: bold;
+}
